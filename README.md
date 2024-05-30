@@ -1,7 +1,7 @@
 # datasheet-real-world-usage-method2-citations
-AI-READI-related Datasheet project
-Datasheet 
 
+## Overview
+This is part of the AI-READI-related Datasheet project
 
 Total 1891 papers (https://docs.google.com/spreadsheets/d/1G6apjav94A0R3H4OZXbd7pdmIEfF6m3xbc4LhkRhBSk/edit#gid=0) , I was able to get 1524 PDFs manually. Among them, 254 pdfs (https://docs.google.com/spreadsheets/d/1G6apjav94A0R3H4OZXbd7pdmIEfF6m3xbc4LhkRhBSk/edit#gid=783969714)  have more than 2 “datasheet” by scan_for_words_datasheet ( https://github.com/kusimpkins/datasheet) 
 
