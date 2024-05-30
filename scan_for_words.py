@@ -8,7 +8,7 @@ pdf_folder = '/path/to/your/pdf/folder'
 
 # Define the specific words you want to search for
 target_words = ['datasheet', 'datasheets']
-# note that we used variations of 'data card', 'data cards', 'datacard' and 'datacards' for data card
+# note that we used variations of 'data card', 'data cards', 'datacard' and 'datacards' for data card target_words
 
 # Initialize an empty list to store results
 results = []
