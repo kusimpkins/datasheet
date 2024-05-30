@@ -7,7 +7,7 @@ import PyPDF2
 pdf_folder = '/path/to/your/pdf/folder'
 
 # Define the specific words you want to search for
-target_words = ['word1', 'word2', 'word3']
+target_words = ['datasheet', 'datasheets']
 
 # Initialize an empty list to store results
 results = []
